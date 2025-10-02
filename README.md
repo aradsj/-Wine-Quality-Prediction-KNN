@@ -34,18 +34,15 @@ A Machine Learning project implementing a **K-Nearest Neighbors (KNN) Regressor*
 
 ### Installation
 
-```bash
 pip install pandas numpy scikit-learn jupyter
 Execution
 Clone the repository:
 
-Bash
 
 git clone [https://github.com/YOUR_USERNAME/Wine-Quality-Prediction-KNN.git](https://github.com/YOUR_USERNAME/Wine-Quality-Prediction-KNN.git)
 cd Wine-Quality-Prediction-KNN
 Run the Notebook:
 
-Bash
 
 jupyter notebook wine_quality.ipynb
 📂 File Structure
