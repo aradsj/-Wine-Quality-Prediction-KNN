@@ -1,9 +1,3 @@
-
----
-
-## ۳. Wine-Quality-Prediction-KNN
-
-```markdown
 # 🍷 Wine-Quality-Prediction-KNN
 
 A Machine Learning project implementing a **K-Nearest Neighbors (KNN) Regressor** model to predict the quality score of red wine based on 11 physico-chemical input features.
