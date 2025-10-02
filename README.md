@@ -1,7 +1,3 @@
----
-
-## ۳. Wine-Quality-Prediction-KNN
-
 ```markdown
 # 🍷 Wine-Quality-Prediction-KNN
 
